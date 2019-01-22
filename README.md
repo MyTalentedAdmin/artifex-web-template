@@ -22,5 +22,7 @@ If you wish to contact us, please join the Discord server and DM an online Staff
 
 # Server Widget
 <html>
+  <body>
 <iframe src="https://discordapp.com/widget?id=537342239878414346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+  </body>
 </html>
