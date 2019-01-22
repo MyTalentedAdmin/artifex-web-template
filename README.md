@@ -21,4 +21,6 @@ If you have found a bug or spelling mistake, please visit [bugs.artifex.ml](http
 If you wish to contact us, please join the Discord server and DM an online Staff member. Artifex will **not** answer any DM's relating to the community as he is a busy person.
 
 # Server Widget
+<html>
 <iframe src="https://discordapp.com/widget?id=537342239878414346&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+</html>
